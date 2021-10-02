@@ -1,10 +1,6 @@
-# Kilobyte Assignment
+# Order Anything
+This application memics the basic structure of online ordering platform. This assignment is build on Nodejs. MySql database is used for storing the data.
 
-This assignment is build on Nodejs. MySql database is used for storing the data.
-
-## Note-
-
-I have added functions for jwt auth but cannot integrate with apis due to lack of time, if provided more time i will integrate jwt auth.
 ## Api:
 
 
